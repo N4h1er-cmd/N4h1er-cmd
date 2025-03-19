@@ -1,3 +1,6 @@
+# 💫 About Me:
+<br>- 🔭 I’m currently working on **my Portfolio**  <br>- 🤝 I’m looking to collaborate on **front-end projects**  <br>- 🌱 I’m looking for help with **advanced React or Node.js topics**  <br>- ⚡ I’m currently learning **React, Node.js, and modern web dev tools**  <br>- 💬 Ask me about **my journey in software development**  <br>- 😄 Fun fact: **I love exploring new tech and reading about AI**  <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nahier Tesfaalem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahier.tesfaalem@swisscom.com) 
